@@ -1,0 +1,13 @@
+.card{
+    margin: 10px 0 5rem 5rem;
+    width: 18rem;
+}
+div i{
+    list-style-type: none;
+    margin-right: 3rem;
+}
+.first{
+    float: left;
+    margin-right: 10%;
+    margin-left: 10%;
+}
